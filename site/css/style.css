@@ -13,7 +13,7 @@ div {
 	width: 33%;
 	float:left;
 	background-color: #C0C0C0;
-	border: 2px solid black;
+	border: 1px solid black;
 	margin: 10px;
 }
 
@@ -22,7 +22,7 @@ h3{
 	float:right;
 	color: white;
 	position: relative;
-	border: 2px solid black;
+	border: 1px solid black;
 	padding-right: 20px;
 	padding-left: 20px;
 }
